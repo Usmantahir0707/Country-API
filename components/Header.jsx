@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <div className={`header-container ${dark ? "dark" : ""}`}>
       <div className="header-content">
-        <h3 className="title">Where in the world?</h3>
+        <h3 className="title">Where in the world??</h3>
         <p className="hp" onClick={()=>{
           
           if(dark){
